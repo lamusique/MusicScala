@@ -1,0 +1,4 @@
+MusicScala
+==========
+
+Scala for music.
